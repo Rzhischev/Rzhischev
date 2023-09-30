@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org) [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org) [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org) [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23EE4C2C.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)](#)[![Seaborn](https://img.shields.io/badge/Seaborn-%23007ACC.svg?style=for-the-badge&logo=Seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org) [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org) [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org) 
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23EE4C2C.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)](#)
+[![Seaborn](https://img.shields.io/badge/Seaborn-%23007ACC.svg?style=for-the-badge&logo=Seaborn&logoColor=white)](https://seaborn.pydata.org/)
  [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
  [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](#)
  [![CatBoost](https://img.shields.io/badge/CatBoost-%23EE4C2C.svg?style=for-the-badge&logo=CatBoost&logoColor=white)](https://catboost.ai/)
