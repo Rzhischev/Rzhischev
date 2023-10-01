@@ -18,4 +18,4 @@
  [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD700.svg?style=for-the-badge&logo=Hugging%20Face&logoColor=black)](https://huggingface.co/)
  [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io/)
 
-![img](https://www.codewars.com/users/Rzhishchev/badges/large)
+![img](https://www.codewars.com/users/Rzhishchev/badges/small)
